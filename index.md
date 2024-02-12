@@ -13,3 +13,8 @@ pip install openai
 installs the openai library
 
 '''
+
+- [ ] Turn on GitHub Pages
+- [x] Make myself a coffee
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
